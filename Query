@@ -1,0 +1,5 @@
+select categories,
+product_title As title,
+web_url As url,
+imgages As imageurls,
+from product_database where id=123
